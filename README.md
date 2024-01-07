@@ -1,1 +1,3 @@
-# Food_Price_Prediction
+Food Price Prediction GitHub Repository:
+
+Explore my self-initiated project on Food Price Prediction, spanning from August '23 to November '23. In this project, I meticulously preprocessed data and employed a self-developed linear regression model from scratch, utilizing Swiggy data. The model demonstrated a robust predictive performance with an impressive R2 score of 0.89, showcasing its accuracy in forecasting food prices based on various features, including the quality of food and services across different restaurants. This project not only underscores my proficiency in data preprocessing and machine learning but also highlights its practical application, empowering restaurant owners with a valuable tool to make informed pricing decisions that strike a balance between profitability and competitiveness.
